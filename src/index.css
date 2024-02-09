@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* styles.css */
+body {
+    background-color: #dabc14; /* Example color code */
+}
+.h1,h2,h3,h4{
+    color: blue;
+}
+.p{
+    color: green;
+}
